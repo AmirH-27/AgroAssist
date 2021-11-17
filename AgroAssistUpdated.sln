@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgroAssistUpdated", "AgroAssistUpdated\AgroAssistUpdated.csproj", "{BC0B5E89-246F-40D3-BAAC-F41596ED1580}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup2", "Setup2\Setup2.vdproj", "{0042830F-1B58-48E3-ABC2-D1FF258FA9FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC0B5E89-246F-40D3-BAAC-F41596ED1580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC0B5E89-246F-40D3-BAAC-F41596ED1580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC0B5E89-246F-40D3-BAAC-F41596ED1580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC0B5E89-246F-40D3-BAAC-F41596ED1580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0042830F-1B58-48E3-ABC2-D1FF258FA9FA}.Debug|Any CPU.ActiveCfg = Debug
+		{0042830F-1B58-48E3-ABC2-D1FF258FA9FA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1BAE8C2-26E0-4110-817C-621565AE5967}
+	EndGlobalSection
+EndGlobal
